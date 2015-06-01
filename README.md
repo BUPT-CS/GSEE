@@ -48,4 +48,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「导师专栏」由15级师兄师姐执笔，详细介绍导师的现研究方向（很多时候导师的研究方向和官方给出的告示已经发生了变化）和个人风格。暂时只有第六组的导师，后期争取慢慢增加。
 
-##
+## 资料共享
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「资料共享」由全体参与者维护，每个人都可以fork走这个仓库，添加自己的资料后，然后pull request。
+
+## 考研经验
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「考研经验」里面首推北邮人自己写的考研专刊，现在上传的是2015年版本。然后再看由师兄师姐自己执笔的文章。
+
+# 联系我们
+
+欢迎在项目的<a href="https://github.com/BUPT-CS/IGE/issues" target="_blank">issue</a>中提问，我们会在那里进行回答。
+
+如果有不方便公开讨论的问题，可以通过邮件 dlnushenpeng@yahoo.com 联系我们。
+
