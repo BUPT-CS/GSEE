@@ -8,9 +8,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惯例是计6组、计4组。
 
-2015年各组录取分数线及空缺名单：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015年各组录取分数线及空缺名单：
 
-![2015年录取分数线]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![2015年录取分数线](asset/cutoff mark.png)
 
 * 专业课使用的教材有什么？应该买的辅导资料又有哪些？
 
